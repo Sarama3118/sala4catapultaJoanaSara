@@ -1,5 +1,5 @@
 # Catapulta de Joana y Sara
-![Trebuchet medieval] (https://upload.wikimedia.org/wikipedia/commons/2/2e/Trebuchet.jpg)
+![Trebuchet medieval] (https://upload.wikimedia.org/wikipedia/commons/b/b2/Trebuchet_Castelnaud.jpg)
 ## Joana y Sara creamos catapultas
 1. Presentación
 2. El Proyecto
