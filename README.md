@@ -7,4 +7,4 @@
 5. Agradecimientos
 ## El Proyecto  
 La motivación principal de este proyecto ha sido la de crear una catapulta para lanzar rocas grandes.  
-y aquí va un segundo párrafo
+La experiencia ha sido duda pero gratificante.
